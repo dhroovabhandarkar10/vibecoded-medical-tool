@@ -17,25 +17,5 @@ A comprehensive React-based web application designed to help users identify pote
 - **Maps:** Leaflet, React Leaflet
 - **Build Tool:** Vite
 
-## Installation & Running Locally
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-3. Open your browser and navigate to `http://localhost:5173`
-
-## Building for Production
-
-To create a production build:
-```bash
-npm run build
-```
-
-This will generate the optimized files in the `dist` directory.
+Website working link- 
+https://vibecoded-medical-tool.vercel.app/
